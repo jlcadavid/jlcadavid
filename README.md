@@ -40,9 +40,9 @@
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>&nbsp;
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>&nbsp;
+  <br/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>&nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>&nbsp;
-  <br/>
   
   #### Front-End Mobile Development
   
@@ -50,27 +50,27 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>&nbsp;
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>&nbsp;
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>&nbsp;
+  <br/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>&nbsp;
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS"/>&nbsp;
-  <br/>
   
   #### Back-End Development
   
   <img src="https://img.shields.io/badge/python%20-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python"/>&nbsp;
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>&nbsp;
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>&nbsp;
+  <br/>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>&nbsp;
   <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>&nbsp;
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>&nbsp;
-  <br/>
   
   #### Game Development
   
   <img src="https://img.shields.io/badge/c sharp%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>&nbsp;
+  <br/>
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>&nbsp;
   <img src="https://img.shields.io/badge/unreal engine%20-%23313131.svg?&style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine"/>
-  <br/>
   
   #### Cloud Services
   
@@ -86,9 +86,9 @@
   <img src="https://img.shields.io/badge/visual studio code%20-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>&nbsp;
   <img src="https://img.shields.io/badge/apache netbeans ide%20-%231B6AC6.svg?&style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="Apache NetBeans IDE"/>&nbsp;
   <img src="https://img.shields.io/badge/intellij idea%20-%23000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>&nbsp;
+  <br/>
   <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/>&nbsp;
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"/>&nbsp;
-  <br/>
   
   #### OS
   
