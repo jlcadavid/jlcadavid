@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **'COVID-19-Status-Colombia'**
 - 🌱 I’m currently learning **ReactJS, Flutter Web, data analytics and APIs creation with Python!**
 
-- 🔭 Ask me about **Colombia** 🇨🇴
+- 🔭 Ask me about **Mobile and Web Development Plans!**
 
 - 📫 How to reach me: Send me an e-mail to **jlcadavid@uninorte.edu.co**
 
@@ -47,9 +47,9 @@
   #### Front-End Mobile Development
   
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>&nbsp;
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>&nbsp;
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>&nbsp;
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>&nbsp;
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>&nbsp;
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>&nbsp;
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS"/>&nbsp;
   <br/>
