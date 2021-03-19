@@ -5,7 +5,7 @@
 </div>
 
 - 🔭 I’m currently working on **'COVID-19-Status-Colombia'**
-- 🌱 I’m currently learning **ReactJS, Flutter Web, data analytics and APIs creation with Python!**
+- 🌱 I’m currently learning **ReactJS, Flutter Web, data mining, analytics and API building with Python!**
 
 - 🔭 Ask me about **Mobile and Web Development Plans!**
 
