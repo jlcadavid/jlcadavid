@@ -1,7 +1,6 @@
 <div align="center">
 
-  # Hi there! 👋
-  # I'm José Luis Martínez Cadavid
+  # Hi there! 👋 \ I'm José Luis Martínez Cadavid
 
 </div>
 
