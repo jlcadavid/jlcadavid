@@ -62,6 +62,7 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>&nbsp;
   <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>&nbsp;
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>&nbsp;
   <br/>
   
   #### Game Development
@@ -80,21 +81,20 @@
   <img src="https://img.shields.io/badge/netlify%20-%2300C7B7.svg?&style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>&nbsp;
   <br/>
   
-  #### OS
-  
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>&nbsp;
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>&nbsp;
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>&nbsp;
-  
   #### Other tools
   
   <img src="https://img.shields.io/badge/visual studio code%20-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>&nbsp;
   <img src="https://img.shields.io/badge/apache netbeans ide%20-%231B6AC6.svg?&style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="Apache NetBeans IDE"/>&nbsp;
   <img src="https://img.shields.io/badge/intellij idea%20-%23000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>&nbsp;
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>&nbsp;
   <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/>&nbsp;
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"/>&nbsp;
   <br/>
+  
+  #### OS
+  
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>&nbsp;
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>&nbsp;
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>&nbsp;
   
 </div>
 
