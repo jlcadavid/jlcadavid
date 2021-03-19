@@ -33,7 +33,7 @@
 
 <div align="center">
 
-  ## Tech Skills
+  ## Tech Stack
   
   #### Front-End Web Development
 
