@@ -9,7 +9,7 @@
 
 - 🔭 Ask me about **Colombia** 🇨🇴
 
-- 📫 How to reach me: Send me an e-mail to: **jlcadavid@uninorte.edu.co**
+- 📫 How to reach me: Send me an e-mail to **jlcadavid@uninorte.edu.co**
 
 <div align="center">
 
@@ -90,10 +90,10 @@
 
   ## GitHub Stats
 
-  [![Github stats](https://github-readme-stats.vercel.app/api?username=jlcadavid&count_private=true&show_icons=true&bg_color=000,000,000&text_color=FFF)](https://github.com/jlcadavid/github-readme-stats)
+  [![Github stats](https://github-readme-stats.vercel.app/api?username=jlcadavid&count_private=true&show_icons=true&theme=prussian)](https://github.com/jlcadavid/github-readme-stats)
 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlcadavid&layout=compact&bg_color=000,000,000&text_color=FFF)](https://github.com/jlcadavid/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlcadavid&layout=compact&theme=prussian)](https://github.com/jlcadavid/github-readme-stats)
   <br />
 
 </div>
