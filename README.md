@@ -35,7 +35,7 @@
 
 
 
-## Tech Stack
+## Tech Talk
 
 <div align="center">
 
