@@ -76,6 +76,7 @@
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon Web Services (AWS)"/>&nbsp;
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Platform"/>&nbsp;
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure"/>&nbsp;
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>&nbsp;
   <img src="https://img.shields.io/badge/netlify%20-%2300C7B7.svg?&style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>&nbsp;
   <br/>
   
@@ -90,6 +91,7 @@
   <img src="https://img.shields.io/badge/visual studio code%20-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>&nbsp;
   <img src="https://img.shields.io/badge/apache netbeans ide%20-%231B6AC6.svg?&style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="Apache NetBeans IDE"/>&nbsp;
   <img src="https://img.shields.io/badge/intellij idea%20-%23000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>&nbsp;
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>&nbsp;
   <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/>&nbsp;
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"/>&nbsp;
   <br/>
