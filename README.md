@@ -132,13 +132,17 @@
 ## GitHub Stats
 
 <div align="left">
+  
   [![Github stats](https://github-readme-stats.vercel.app/api?username=jlcadavid&count_private=true&show_icons=true&theme=prussian)](https://github.com/jlcadavid/github-readme-stats)
+  
 </div>
 
 <br />
 
 <div align="right">
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlcadavid&layout=compact&theme=prussian)](https://github.com/jlcadavid/github-readme-stats)
+  
 </div>
 
 
