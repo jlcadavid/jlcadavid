@@ -21,8 +21,12 @@
   <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="José Luis Martínez Cadavid"/>
   </a>&nbsp;
 
-  <a href="https://www.instgram.com/jlcadavid/" target="blank">
+  <a href="https://www.instagram.com/jlcadavid/" target="blank">
   <img src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="José Luis Martínez Cadavid"/>
+  </a>&nbsp;
+
+  <a href="jlcadavid@uninorte.edu.co" target="blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="José Luis Martínez Cadavid"/>
   </a>&nbsp;
 
 </div>
