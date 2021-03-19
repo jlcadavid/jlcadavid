@@ -6,19 +6,19 @@
 
 
 
-  <a href="https://github.com/jlcadavid/" style="text-decoration: none;" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/jlcadavid/" style="text-decoration: none" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/github%20-%23161b22.svg?&style=for-the-badge&logo=github&logoColor=white" alt="José Luis Martínez Cadavid"/>
   </a>&nbsp;
 
-  <a href="https://www.linkedin.com/in/jlcadavid/" style="text-decoration: none;" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/jlcadavid/" style="text-decoration: none" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="José Luis Martínez Cadavid"/>
   </a>&nbsp;
 
-  <a href="https://www.instagram.com/jlcadavid/" style="text-decoration: none;" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.instagram.com/jlcadavid/" style="text-decoration: none" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="José Luis Martínez Cadavid"/>
   </a>&nbsp;
 
-  <a href="mailto:jlcadavid@uninorte.edu.co" style="text-decoration: none;" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:jlcadavid@uninorte.edu.co" style="text-decoration: none" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="José Luis Martínez Cadavid"/>
   </a>&nbsp;
 
