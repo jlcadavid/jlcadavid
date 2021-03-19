@@ -28,6 +28,8 @@
   <a href="mailto:jlcadavid@uninorte.edu.co" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="José Luis Martínez Cadavid"/>
   </a>&nbsp;
+  
+  [![GitHub](https://img.shields.io/badge/github%20-%23161b22.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/jlcadavid/)
 
 </div>
 
