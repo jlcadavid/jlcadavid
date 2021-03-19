@@ -9,7 +9,7 @@
 
 - 🔭 Ask me about **Mobile and Web Development Plans!**
 
-- 📫 How to reach me: Send me an e-mail to **jlcadavid@uninorte.edu.co**
+- 📫 How to reach me: **Send me an e-mail to jlcadavid@uninorte.edu.co**
 
 <div align="center">
 
