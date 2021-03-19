@@ -37,7 +37,7 @@
 
 ## Tech Talk
 
-<div align="left">
+<div align="center">
   
   #### Front-End Web Development
 
@@ -48,9 +48,7 @@
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>&nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>&nbsp;
   
-</div>
 
-<div align="center">
   
   #### Front-End Mobile Development
 
@@ -62,9 +60,7 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>&nbsp;
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS"/>&nbsp;
   
-</div>
 
-<div align="right">
   
   #### Back-End Development
 
@@ -77,9 +73,7 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>&nbsp;
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>&nbsp;
   
-</div>
 
-<div align="center">
   
   #### Game Development
 
@@ -88,9 +82,7 @@
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>&nbsp;
   <img src="https://img.shields.io/badge/unreal engine%20-%23313131.svg?&style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine"/>
   
-</div>
 
-<div align="left">
   
   #### Cloud Services
 
@@ -101,9 +93,7 @@
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>&nbsp;
   <img src="https://img.shields.io/badge/netlify%20-%2300C7B7.svg?&style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>&nbsp;
   
-</div>
 
-<div align="center">
   
   #### Other tools
 
@@ -115,9 +105,7 @@
   <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/>&nbsp;
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"/>&nbsp;
   
-</div>
 
-<div align="right">
   
   #### OS
 
