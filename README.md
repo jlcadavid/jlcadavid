@@ -108,12 +108,11 @@
 ## GitHub Stats
 
 <div align="center">
+  
+  [![Github stats](https://github-readme-stats.vercel.app/api?username=jlcadavid&count_private=true&show_icons=true&theme=prussian)](https://github.com/jlcadavid/github-readme-stats)
+  <br />
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlcadavid&layout=compact&theme=prussian)](https://github.com/jlcadavid/github-readme-stats)
-  <!--
-    [![Github stats](https://github-readme-stats.vercel.app/api?username=jlcadavid&count_private=true&show_icons=true&theme=prussian)](https://github.com/jlcadavid/github-readme-stats)
-    <br />
-  -->
 
 </div>
 
