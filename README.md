@@ -28,14 +28,12 @@
 
 - 🔭 I’m currently working on **'COVID-19-Status-Colombia'**
 - 🌱 I’m currently learning **ReactJS, Flutter Web, data mining, analytics and API building with Python!**
-
 - 🔭 Ask me about **Mobile and Web Development Plans!**
-
 - 📫 How to reach me: **Send me an e-mail to jlcadavid@uninorte.edu.co**
 
 
 
-## Tech Talk
+## Tech Talk 💻
 
 <div align="center">
   
@@ -117,7 +115,7 @@
 
 
 
-## GitHub Stats
+## GitHub Stats 📈
 
 <div align="left">
   
