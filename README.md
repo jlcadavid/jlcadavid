@@ -103,7 +103,7 @@
   ### Cloud Services
 
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon Web Services (AWS)"/>&nbsp;
-  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Platform"/>&nbsp;
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>&nbsp;
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white" alt="Microsoft Azure"/>&nbsp;
   <br/>
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>&nbsp;
