@@ -80,7 +80,7 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>&nbsp;
 
 
-  ### Game and IOT Development
+  ### Game and IoT Development
 
   <img src="https://img.shields.io/badge/c sharp%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>&nbsp;
   <br/>
