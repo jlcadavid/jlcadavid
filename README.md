@@ -73,24 +73,25 @@
   <br/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>&nbsp;
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>&nbsp;
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red" alt="Postman" />&nbsp;
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>&nbsp;
   
-
   
-  ### Game Development
-
-  <img src="https://img.shields.io/badge/c sharp%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>&nbsp;
+  
+  ### ML - DL
+  
+  <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Notebook"/>&nbsp;
   <br/>
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>&nbsp;
-  <img src="https://img.shields.io/badge/unreal engine%20-%23313131.svg?&style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine"/>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />&nbsp;
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />&nbsp;
   
 
   
   ### Cloud Services
 
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon Web Services (AWS)"/>&nbsp;
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Platform"/>&nbsp;
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure"/>&nbsp;
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Platform"/>&nbsp;
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white" alt="Microsoft Azure"/>&nbsp;
   <br/>
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>&nbsp;
   <img src="https://img.shields.io/badge/netlify%20-%2300C7B7.svg?&style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>&nbsp;
@@ -103,6 +104,7 @@
   <img src="https://img.shields.io/badge/apache netbeans ide%20-%231B6AC6.svg?&style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="Apache NetBeans IDE"/>&nbsp;
   <img src="https://img.shields.io/badge/intellij idea%20-%23000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>&nbsp;
   <br/>
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />&nbsp;
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/>&nbsp;
   <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/>&nbsp;
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"/>&nbsp;
