@@ -80,14 +80,14 @@
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>&nbsp;
 
 
-  ### IOT and Game Development
+  ### Game and IOT Development
 
   <img src="https://img.shields.io/badge/c sharp%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>&nbsp;
   <br/>
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />&nbsp;
-  <br/>
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>&nbsp;
   <img src="https://img.shields.io/badge/unreal engine%20-%23313131.svg?&style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine"/>
+  <br/>
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />&nbsp;
   
   
   
