@@ -28,7 +28,7 @@
 
 
 - 🔭 I’m currently working on **'COVID-19-Status-Colombia'**
-- 🌱 I’m currently learning **ReactJS, Flutter Web, data mining, analytics and API building!**
+- 🌱 I’m currently learning **ReactJS, Flutter Web, data mining, analytics and API building with Python and Java!**
 - 💡  I’m interested in **Cyber Security and E-Hacking topics**
 - ❓  Ask me about **Mobile and Web Development Plans!**
 - 📫 How to reach me: **Send me an e-mail to jlcadavid@uninorte.edu.co**
